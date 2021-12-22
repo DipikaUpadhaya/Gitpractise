@@ -1,4 +1,4 @@
-helo world
+
 Welcome to the environment of git testing.
-git is a version control framework.
+git is a version control framework created in 2005 by owner of Linux
 
