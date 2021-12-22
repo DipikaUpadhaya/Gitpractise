@@ -1,2 +1,3 @@
-Welcome to the environment of git testing
+Welcome to the environment of git testing.
+git is a version control framework.
 
